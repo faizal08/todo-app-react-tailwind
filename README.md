@@ -11,20 +11,21 @@
 
 ---
 
+</div>
+
 ## 📖 Overview
-The **React Todo App** is more than just a list; it is a demonstration of modern frontend development practices. It utilizes **React Functional Components** and **Hooks** to manage state, while **Tailwind CSS** provides a highly responsive and aesthetic utility-first design.
+The **React Todo App** is a demonstration of modern frontend development practices. It utilizes **React Functional Components** and **Hooks** to manage state, while **Tailwind CSS** provides a highly responsive and aesthetic utility-first design.
 
 ---
 
 ## 📸 Interface Preview
-
 ![todoapp Screenshot](todoapp_screenshot.png)
 
 ---
 
 ## ✨ Key Features
-* **💾 Data Persistence:** Uses `localStorage` to ensure your tasks are saved even after refreshing the browser.
-* **📱 Responsive Design:** Fully optimized for Desktop, Tablet, and Mobile screens using Tailwind's breakpoint system.
+* **💾 Data Persistence:** Uses `localStorage` to ensure tasks are saved after browser refreshes.
+* **📱 Responsive Design:** Fully optimized for Desktop, Tablet, and Mobile screens.
 * **⚡ Real-time Updates:** Instant UI feedback when adding, completing, or deleting tasks.
 * **🎨 Modern UI/UX:** Clean typography and subtle transitions for a premium feel.
 
@@ -35,7 +36,7 @@ The **React Todo App** is more than just a list; it is a demonstration of modern
 | :--- | :--- |
 | **Library** | React 18 |
 | **Styling** | Tailwind CSS |
-| **State Management** | React Hooks (useState, useEffect) |
+| **State Management** | React Hooks (`useState`, `useEffect`) |
 | **Storage** | Browser LocalStorage |
 
 ---
@@ -47,34 +48,38 @@ The **React Todo App** is more than just a list; it is a demonstration of modern
 * **npm** or **yarn**
 
 ### Installation & Setup
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/faizal08/todo-app-react-tailwind.git](https://github.com/faizal08/todo-app-react-tailwind.git)
-   
-2. Navigate to the directory:
-```bash
 
-cd todo-app-react-tailwind
-```
-3. Install dependencies:
-```bash
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/faizal08/todo-app-react-tailwind.git](https://github.com/faizal08/todo-app-react-tailwind.git)
+    ```
 
-npm install
-```
+2.  **Navigate to the directory:**
+    ```bash
+    cd todo-app-react-tailwind
+    ```
 
-4. Start the development server:
-```bash
+3.  **Install dependencies:**
+    ```bash
+    npm install
+    ```
 
-npm run dev
-```
-## Usage
+4.  **Start the development server:**
+    ```bash
+    npm run dev
+    ```
 
-1. Open your web browser and navigate to [http://localhost:5173/]
+---
 
-## Contact
+## 🚀 Usage
+1. Open your web browser.
+2. Navigate to: `http://localhost:5173/`
 
+---
+
+## 📩 Contact
 For any inquiries or feedback, feel free to reach out:
 
-- **Email:** [reachfaizal08@gmail.com](reachfaizal08@gmail.com)
-- **GitHub:** [faizal08](https://github.com/faizal08)
+* **Email:** [reachfaizal08@gmail.com](mailto:reachfaizal08@gmail.com)
+* **GitHub:** [@faizal08](https://github.com/faizal08)
    
