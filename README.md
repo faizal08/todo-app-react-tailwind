@@ -14,7 +14,7 @@
 </div>
 
 ## 📖 Overview
-The **React Todo App** is a demonstration of modern frontend development practices. It utilizes **React Functional Components** and **Hooks** to manage state, while **Tailwind CSS** provides a highly responsive and aesthetic utility-first design.
+The **React Todo App** is a demonstration of modern frontend development practices. It utilizes **React Functional Components** and **Hooks** to manage state, while **Tailwind CSS** provide a highly responsive and aesthetic utility-first design.
 
 ---
 
